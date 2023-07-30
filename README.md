@@ -8,7 +8,7 @@ in 8 sessions.(Feb 2022)
 - [Siavash Emami](https://siaemam.com/)
 - [M. Reza Sadeghi](https://www.lambertmech.ir/)
 
-- 
+
 # Main Topics
 - What is MATLAB?
 - Variables
